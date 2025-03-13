@@ -1,5 +1,4 @@
 import styles from "./styles.module.css";
-
 import logo from "../../assets/logo.png"
 import restart from "../../assets/restart.svg"
 
